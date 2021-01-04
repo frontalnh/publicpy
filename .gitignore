@@ -1,0 +1,6 @@
+package
+build
+.vscode
+**/__pycache__
+venv
+out
